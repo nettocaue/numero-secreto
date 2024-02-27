@@ -10,3 +10,9 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
+
+## ✔️ Desenvolvido por:
+ Cauê Netto
+ 
+![image](https://github.com/nettocaue/numero-secreto/assets/146379086/ad07e5d3-b67b-41fe-afe2-4705d5e8477b)
+
