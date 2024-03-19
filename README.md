@@ -13,6 +13,7 @@
 
 ## ✔️ Desenvolvido por:
  Cauê Netto
- 
-![image](https://github.com/nettocaue/numero-secreto/assets/146379086/ad07e5d3-b67b-41fe-afe2-4705d5e8477b)
 
+ <a href="https://www.linkedin.com/in/cau%C3%AA-netto-a40590265/">
+<img height= "200px" src="https://github.com/nettocaue/numero-secreto/assets/146379086/ad07e5d3-b67b-41fe-afe2-4705d5e8477b">
+ </a>
